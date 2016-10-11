@@ -1,5 +1,19 @@
 <entry>
-	<version>2016.10.11.2144</version>
-	<url>https://nsis-dev.github.io/Docset-Feed/NSIS.tgz</url>
-	<url>https://github.com/NSIS-Dev/Docset-Feed/raw/gh-pages/NSIS.tgz</url>
+    <version>2016.10.11.2144</version>
+    <url>https://nsis-dev.github.io/Docset-Feed/NSIS.tgz</url>
+    <url>https://github.com/NSIS-Dev/Docset-Feed/raw/gh-pages/NSIS.tgz</url>
+    <other-versions>
+        <version>
+            <name>2016.10.11.1514</name>
+        </version>
+        <version>
+            <name>2016.10.09.2320</name>
+        </version>
+        <version>
+            <name>2016.10.09.2103</name>
+        </version>
+        <version>
+            <name>2014.03.02.1317</name>
+        </version>
+    </other-versions>
 </entry>
