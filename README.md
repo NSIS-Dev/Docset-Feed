@@ -1,5 +1,7 @@
 # NSIS Docset Feed
 
+**Note: The versioning recently changed to from date to SemVer, hence your existing docset might no longer update. Please re-subscribe!**
+
 Feed for [NSIS.docset](https://github.com/idleberg/NSIS.docset)
 
 ## Subscribe
